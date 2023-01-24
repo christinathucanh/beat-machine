@@ -4,7 +4,8 @@ Preliminaries: A staple of electronic music is the drum machine. A drum machine 
 
 In this project, I will use the fundamental programming skills to build a library of functions for constructing and manipulating drum beats. These functions will then explore some classic rhythmic patterns not just from western music, but also other traditions! <br>
 
-Please download the extension Scamper on VS Code to run this project. <br>
+Please download the extension Scamper on VS Code to run this file. Thank you! <br>
+
 Author: Anh Thuc (Christina) Vu <br>
 Date: 2022-12-7 <br>
 ACKNOWLEDGEMENTS:... <br> 
