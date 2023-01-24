@@ -1,4 +1,3 @@
-# beat-machine
 <h1>Project: Beat Machine </h1>
 <h6> Preliminaries: A staple of electronic music is the drum machine. A drum machine allows the user to create patterns of drum beats from a set of sound samples imitating real-world percussive instruments such as a snare drum or a cymbal. They can be found all over modern popular music, e.g., dance pop and electronic music from the 80s and 90s: Phil Collin’s In the Air Tonight uses a Roland CR-78.Michael Jackson’s Man in The Mirror uses a Linn 9000, Aphex Twin’s Heliosphan uses a Roland TR-909.
 
