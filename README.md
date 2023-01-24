@@ -6,6 +6,6 @@ In this project, I will use the fundamental programming skills to build a librar
 
 Please download the extension Scamper on VS Code to run this file. Thank you! <br>
 
-Author: Anh Thuc (Christina) Vu <br>
-Date: 2022-12-7 <br>
+Author: Anh Thuc (Christina) Vu. <br>
+Date: 2022-12-7. <br>
 ACKNOWLEDGEMENTS:... <br> 
